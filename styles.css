@@ -46,9 +46,9 @@ img {
 
 .counter-div {
   width: 40rem;
-  border: 1px solid var(--grey);
+  border: 1px solid rgb(3, 28, 46);
   padding: 1rem;
-  background-color: var(--light-blue);
+  background-color: #2e4c6d;
   color: var(--white);
   text-align: center;
   border-radius: 5px;
